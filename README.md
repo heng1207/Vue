@@ -1,6 +1,6 @@
 # Vue - Web前端框架
 
-## Project setup
+### Project setup
 ```
 npm install
 ```
